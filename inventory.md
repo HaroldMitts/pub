@@ -12,6 +12,8 @@
 # Fruits & Vegetables
 - Frozen Birdseye California Blend (broccoli, cauliflower, carrots)
 - Frozen broccoli
+- Frozen corn
+- Fresh celery
 - Sweet kale salad mix
 - Sweet yellow onions
 - Medium avocados
