@@ -19,7 +19,7 @@
 - Medium avocados
 - Sweet potatoes
 - White Mushrooms
-- Extra sharp cheddar cheese
+- Mozzarella cheese
 - Grapefruit
 - Raspberries
 
